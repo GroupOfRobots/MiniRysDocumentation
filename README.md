@@ -10,3 +10,7 @@ MiniRyś project task management by GitHub issues
   - zwiększeniu odstępu między płytkami, 
   - zamontowaniu większych radiatorów na procesorze pajki i sterownikach krokowców,
   - przeprojektowaniu RysBoarda tak, aby złącza były pod portami USB Pajki a nie zaraz obok wentylatora, hamując przepływ powietrza.
+  
+### 2022.12.03
+- zastosowaneo wentylator 50mm
+- wygląda na to, że chłodzenie pajki jes wystarczające
