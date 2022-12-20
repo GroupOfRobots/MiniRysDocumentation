@@ -1,0 +1,6 @@
+top -> j10 (ToF1)
+bottom -> j11 (ToF2)
+front -> j15 (ToF5)
+back -> j13 (ToF4)
+left -> j16 (ToF6)
+rigth -> j12 (ToF3)
