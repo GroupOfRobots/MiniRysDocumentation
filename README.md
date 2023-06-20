@@ -1,5 +1,7 @@
 # MinirysDocumentation
 
+supervisor: Tomasz Winiarski
+
 MiniRyś project task management by GitHub issues
 
 ## Uwagi do chłodzenia
