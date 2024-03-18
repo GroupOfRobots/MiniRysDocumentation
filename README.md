@@ -16,3 +16,6 @@ MiniRyś project task management by GitHub issues
 ### 2022.12.03
 - zastosowaneo wentylator 50mm
 - wygląda na to, że chłodzenie pajki jes wystarczające
+
+## DYSK GOOGLE
+[dane do dysku google](./GOOGLE_ACCOUNT.md)
