@@ -19,3 +19,11 @@ MiniRyś project task management by GitHub issues
 
 ## DYSK GOOGLE
 [dane do dysku google](./GOOGLE_ACCOUNT.md)
+
+
+## REPOZYTORIA
+- [MiniRysRobotSoftware](https://github.com/GroupOfRobots/MiniRysRobotSoftware) - oprogramowanie robota
+- [MiniRysRQT](https://github.com/GroupOfRobots/MiniRysRQT) - GUI robota
+- [MiniRysRPiOSConfig](https://github.com/GroupOfRobots/MiniRysRPiOSConfig) - ustawienia systemu operacyjnego na RPI
+- [MiniRysMechanics](https://github.com/GroupOfRobots/MiniRysMechanics) - mechanika robota
+- [MiniRysElectronics](https://github.com/GroupOfRobots/MiniRysElectronics) - elektronika robota
